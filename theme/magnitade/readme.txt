@@ -31,7 +31,7 @@ US English/en_US (default)
 http://www.missui.com/
 
 == Download ==
-http://wordpress.org/extend/themes/magnitade/
+http://www.missui.com/archives/129.html
 
 == Free icon by zcool.com.cn ==
 
